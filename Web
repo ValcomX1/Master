@@ -4,6 +4,7 @@
     onFalse.ShowData
     onTrue.ShowData
       }
+@PublicView.Disabled
 {{
   {
     MemberCount {}
@@ -23,4 +24,20 @@
   { Locations.on
     { Ask.Yes
      }}]
+{
+"employees":[
+    {"firstName":"John", "lastName":"Doe"}, 
+    {"firstName":"Anna",	"lastName":"Smith"},
+    {"firstName":"Peter", "lastName":"Darrel"},
+    {"firstName":"Nick", "lastName":"Jones"}, 
+    {"firstName":"Joe",	"lastName":"Emily"},
+    {"firstName":"Meghan", "lastName":"Kelly"}
+]
+}
+  {
+ "employees of the month":[
+    {"firstName": "Emily", "lastName":"Kelter"},
+    {'firstName": "Grant", "lastName": George"}
+ ]
+  }
  
