@@ -4,3 +4,23 @@
     onFalse.ShowData
     onTrue.ShowData
       }
+{{
+  {
+    MemberCount {}
+   Enabled: [True]
+   
+    VisitorCount {}
+   Enabled: [True]
+    }
+      }}
+
+-Adertising
+[ 'DiployScript.CityScape' 'DiployScript.Disney' 'DiployScript.EasyShop' ]
+-Sales
+[ 'DiployScript.none' ]
+-Stores
+[ 'DiployScript.UseLocation'
+  { Locations.on
+    { Ask.Yes
+     }}]
+ 
