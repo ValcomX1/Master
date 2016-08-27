@@ -41,3 +41,61 @@
  ]
   }
  
+<script>
+var d = new Date();
+document.getElementById("demo").innerHTML = d.toDateString();
+</script>
+
+<p id="demo"></p>
+
+<script>
+d = new Date();
+document.getElementById("demo").innerHTML = d;
+</script>
+
+<script>
+var d = new Date(99,5,24);
+document.getElementById("demo").innerHTML = d;
+</script>
+
+var x = 5; // Initialize x
+
+elem = document.getElementById("demo"); // Find an element 
+elem.innerHTML = x + " " + y;           // Display x and y
+
+var y = 7; // Initialize y
+var w = window.innerWidth
+
+|| document.documentElement.clientWidth
+|| document.body.clientWidth;
+
+var h = window.innerHeight
+|| document.documentElement.clientHeight
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<p id="demo"></p>
+
+<script>
+try {
+    adddlert("Welcome guest!");
+}
+catch(err) {
+    document.getElementById("demo").innerHTML = err.message;
+}
+</script>
+
+</body>
+</html>
+
+// Declare and initiate at the beginning
+var firstName = "",
+    lastName = "",
+    price = 0,
+    discount = 0,
+    fullPrice = 0,
+    myArray = [],
+    myObject = {};
+|| document.body.clientHeight;
