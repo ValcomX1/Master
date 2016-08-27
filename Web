@@ -120,3 +120,16 @@ var firstName = "",
 
 </body>
 </html>
+
+-ImportImage.ctf
+{ ShowData:34.3 
+  { ExportImage: https://www.google.com/search?q=earth&source=lnms&tbm=isch&sa=X&ved=0ahUKEwip_6D22eDOAhWSMx4KHeMbDWoQ_
+  }
+   }
+ 
+ -DayData
+ { 1@3^793, 33@$5, 23!90" }
+ -NiteData
+ { 436^*9, 624@#, 34^7@! }
+ -50Data
+ [ $56, $793, $5601 ]
